@@ -1,6 +1,6 @@
 # Prediction of the number of days of hospitalization
 
-## Feature Description
+## Features
 
 * fin_type - Payment source
 * admission_date - Date of admission to the hospital
@@ -21,4 +21,4 @@
 
 ## Used machine learning model
 
-* [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html?highlight=random%20forest#)
+* [CatBoostRegressor](https://catboost.ai/docs/concepts/python-reference_catboostregressor.html)
