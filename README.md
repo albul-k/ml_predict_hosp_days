@@ -1,4 +1,4 @@
-# Prediction of the number of days of hospitalization
+# The number of days in hospital
 
 ## Features
 
@@ -8,11 +8,11 @@
 * weight - Weight
 * age - Age
 * gender - Gender
-* hosp_3 - Hospitalized for this disease this year
+* hosp - Hospitalized for this disease this year
 * hosp_procedure - Hospitalization procedure
-* hosp_method - Method of admission (delivery)
+* hosp_method - Method of admission
 * purpose - Purpose of admission
-* channel - Channel of receipt
+* channel - Channel of admission
 * diagnosis_main - Main diagnosis
 * diagnosis_concom - Concomitant diagnosis
 * hosp_days - Days of hospitalization (target variable)
