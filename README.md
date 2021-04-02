@@ -4,6 +4,8 @@
 
 * fin_type - Payment source
 * admission_date - Date of admission to the hospital
+* height - Height
+* weight - Weight
 * age - Age
 * gender - Gender
 * hosp_3 - Hospitalized for this disease this year
